@@ -1053,3 +1053,40 @@
 2021-04-29 15:35:20,807 [9768] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2021-04-29 15:35:20,808 [9768] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2021-04-29 15:35:20,809 [9768] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-04-30 14:32:39,438 [19452] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-04-30 14:32:39,438 [19452] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-04-30 14:32:39,438 [19452] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-04-30 14:32:39,440 [19452] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-04-30 14:32:39,441 [19452] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-04-30 14:32:39,441 [19452] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-04-30 14:32:39,951 [19452] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-04-30 14:32:39,952 [19452] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-04-30 14:32:39,952 [19452] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-04-30 14:32:39,954 [19452] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-04-30 14:32:39,955 [19452] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-04-30 14:32:39,955 [19452] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-04-30 14:39:37,490 [10300] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-04-30 14:39:37,490 [10300] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-04-30 14:39:37,490 [10300] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-04-30 14:39:37,493 [10300] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-04-30 14:39:37,493 [10300] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-04-30 14:39:37,494 [10300] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-04-30 14:40:37,811 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:40:37,831 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:40:37,851 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:40:37,870 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:22,400 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:22,419 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:22,439 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:22,458 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:53,260 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:53,282 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:53,302 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:41:53,320 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:42:01,376 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:42:01,396 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:42:01,415 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:42:01,434 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:43:34,336 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:43:34,356 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-30 14:43:34,375 [10300] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
